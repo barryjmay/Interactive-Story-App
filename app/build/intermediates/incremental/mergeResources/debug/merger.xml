@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Interactive Story
+                </string>
+                <string name="title_activity_story" >StoryActivity
+                </string>
+                <string name="key_name" >name
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.NoActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="page6"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page3"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page3.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page0"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page0.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="main_title"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\main_title.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page3"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page3.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page6"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page6.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page2"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page2.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page3"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page1"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page1.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page4"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page4.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page1"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page2"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page4"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page4.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page5"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page5.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page4"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page4.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page6"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page6.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="main_title"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\main_title.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page5"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page5.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page5"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page3"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page3.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page6"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page6.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page5"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page5.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page2"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page2.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="page4"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-hdpi\page4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="page1"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page1.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="main_title"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\main_title.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page0"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page0.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="page1"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page1.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page0"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xxhdpi\page0.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="main_title"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\main_title.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page0"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-xhdpi\page0.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="page2"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\drawable-mdpi\page2.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_story"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\layout\activity_story.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="story"
+                path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\main\res\menu\story.xml"
+                qualifiers=""
+                type="menu" />
+        </source>
+        <source path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\BMay.DDL\AndroidStudioProjects\InteractiveStory\app\src\debug\res" />
+    </dataSet>
+
+</merger>
